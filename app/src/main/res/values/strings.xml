@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="welcome">Welcome to the Geometry Test</string>
+    <string name="level">Welcome to Level_1</string>
+    <string name="Level_2">Welcome to Level_2</string>
+    <string name="Level_3">Welcome to Level_3</string>
+    <string name="Level_4">Welcome to Level_4</string>
+    <string name="Level_5">Welcome to Level_5</string>
+    <string name="Level_6">Welcome to Level_6</string>
+    <string name="Level_7">Welcome to Level_7</string>
+    <string name="nextLevel">Next Level</string>
+    <string name="backToMenu">Wanna try again?</string>
+    <string name="startGame">New Game</string>
+
+    <string name="wrong">Try again</string>
+
+    <string name="requirements">Using the Pytagorean theorem find the length of the hypotenuse, knowing that the
+cathetuses are 3 and 4 respectively.</string>
+    <string name="answer_level1_1">5</string>
+    <string name="answer_level1_2">4</string>
+    <string name="answer_level1_3">3</string>
+
+    <string name="requirements_2">Knowing that we have an isosceles right triangle and its cathetus is 20 centimeters find the length of its hypotenuse.</string>
+    <string name="answer_level2_1">15</string>
+    <string name="answer_level2_2">10</string>
+    <string name="answer_level2_3">5</string>
+</resources>
